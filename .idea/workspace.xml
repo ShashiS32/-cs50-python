@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc8f8464-acf2-45c7-8b73-94caf81825ec" name="Changes" comment="nun">
+    <list default="true" id="dc8f8464-acf2-45c7-8b73-94caf81825ec" name="Changes" comment="strip function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -109,12 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714348491060</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="strip function">
+      <option name="closed" value="true" />
+      <created>1715215398307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715215398307</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="nun" />
-    <option name="LAST_COMMIT_MESSAGE" value="nun" />
+    <MESSAGE value="strip function" />
+    <option name="LAST_COMMIT_MESSAGE" value="strip function" />
   </component>
 </project>
